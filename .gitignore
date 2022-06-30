@@ -1,0 +1,6 @@
+*.csv
+*.txt
+*.json
+diss_env
+.DS_Store
+
