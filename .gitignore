@@ -1,6 +1,7 @@
 *.csv
 *.txt
 *.json
-diss_env
+*.zip
+LI_env
 .DS_Store
 
